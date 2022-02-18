@@ -124,6 +124,7 @@ public:
 									}
 									else {
 										parent->right_Data = currentNode->right_Data;
+										return;
 									}
 								}
 							}
@@ -131,7 +132,7 @@ public:
 					}
 
 				}
-				return;
+				
 			}
 		}
 	}
