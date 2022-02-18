@@ -10,6 +10,7 @@ How to use:
 
 
 Example:
+<T> can be chosen by you
 
 node<int> base;
 //base node
