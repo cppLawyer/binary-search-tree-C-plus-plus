@@ -1,17 +1,13 @@
 # binary-search-tree-C-plus-plus
-Made safe and robust;
 
 
-
-The everything is set on the stack if you like you can edit it to be on the heap
-
-
-How to use:
+- Made safe and robust
+- The everything is set on the stack if you like you can edit it to be on the heap
 
 
 Example:
-<T> can be chosen by you
 
+```
 node<int> base;
 //base node
   
@@ -23,3 +19,4 @@ base.remove(212);
   
 base.search(757)
 //to search in the binary tree returns a boolean of true if found else false
+```
